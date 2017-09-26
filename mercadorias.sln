@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mercadorias", "mercadorias\mercadorias.pyproj", "{55D66810-C80D-4EC6-AF60-EC3286D089BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55D66810-C80D-4EC6-AF60-EC3286D089BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D66810-C80D-4EC6-AF60-EC3286D089BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D66810-C80D-4EC6-AF60-EC3286D089BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D66810-C80D-4EC6-AF60-EC3286D089BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794C713C-21EC-4274-B46B-646BC54CF974}
+	EndGlobalSection
+EndGlobal
