@@ -44,7 +44,7 @@ def pegaMercadorias():
         for i in todos:
             lista.append(i.toJSON())
     except:
-        print "error ", sys.exc_info()[0]
+        print("error ", sys.exc_info()[0])
     return jsonify(lista), 200
 
 @app.route('/api/mercadoria',methods=['POST'])
